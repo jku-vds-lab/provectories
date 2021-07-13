@@ -1,2 +1,2 @@
 # provectories
-Redirect to Caleydoapp
+Redirect `provectories.jku-vds-lab.at` to `provectories.caleydoapp.org`
